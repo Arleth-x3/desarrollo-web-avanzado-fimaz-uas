@@ -26,5 +26,7 @@ Instrucciones de ejecución
 2. Ejecutar el archivo index.php desde el navegador
 3. El archivo index.php crea una instancia de la clase Usuario
 4. Se muestran en pantalla los valores del nombre y correo utilizando los métodos getters.
+5. Copiar la carpeta de mi proyecto en XAMPP
 
 Resultados esperados: 
+
